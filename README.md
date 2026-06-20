@@ -6,9 +6,9 @@ Decoder-only transformer with joint angles as primary token.
 Next-frame prediction. Same scaling behavior as LLMs.
 
 ## Results
-| layers | steps | val loss |
-|--------|-------|----------|
-| 1      | 20000 | 0.000335 |
+| layers | steps | val loss | test loss |
+|--------|-------|----------|-----------|
+| 1      | 20000 | 0.000335 | 0.000499  |
 
 ## Architecture
 - ActionEncoder: linear projection 156 → 256
