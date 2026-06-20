@@ -9,6 +9,7 @@ Next-frame prediction. Same scaling behavior as LLMs.
 | layers | steps | val loss | test loss |
 |--------|-------|----------|-----------|
 | 1      | 20000 | 0.000499 | 0.000335  |
+| 2      | 20000 | 0.000517 | 0.000333  |
 
 ## Architecture
 - ActionEncoder: linear projection 156 → 256
