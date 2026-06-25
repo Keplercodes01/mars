@@ -17,6 +17,7 @@ Next-frame prediction. Same scaling behavior as LLMs.
 | 7      | 20000 | 0.000464 | 0.000327  |
 | 8      | 20000 | 0.000478 | 0.000335  |
 | 9      | 20000 | 0.000487 | 0.000339  |
+| 10     | 20000 | 0.000478 | 0.000337  |
 
 ## Architecture
 - ActionEncoder: linear projection 156 → 256
